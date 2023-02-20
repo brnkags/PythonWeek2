@@ -18,11 +18,7 @@ class Person:
 person = Person()
 
 
-# person.info()
-
-
 class Voter(Person):
-    # voter = "voter"
 
     def set_age(self):
         age = self.age
